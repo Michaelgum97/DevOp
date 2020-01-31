@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>schedule</title>
+	<style>
+	table, th, td {
+		border: 1px solid black;
+	}
+</style>
+</head>
+<body>
+	<table style="width: 50%">
+		<tr>
+			<th></th>
+			<th>Sunday</th>
+			<th>Monday</th>
+			<th>Tuesday</th>
+			<th>Wednesday</th>
+			<th>Thurdsay</th>
+			<th>Friday</th>
+			<th>Saturday</th>
+		</tr>
+		<tr>
+			<td>5:00AM</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Waking up and preparing for class.</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>6:00AM</td>
+		</tr>
+		<tr>
+			<td>7:00AM</td>
+		</tr>
+		<tr>
+			<td>8:00AM</td>
+		</tr>
+		<tr>
+			<td>9:00AM</td>
+		</tr>
+		<tr>
+			<td>10:00AM</td>
+		</tr>
+		<tr>
+			<td>11:00AM</td>
+		</tr>
+		<tr>
+			<td>12:00PM</td>
+		</tr>
+		<tr>
+			<td>13:00PM</td>
+		</tr>
+		<tr>
+			<td>14:00PM</td>
+		</tr>
+		<tr>
+			<td>15:00PM</td>
+		</tr>
+		<tr>
+			<td>16:00PM</td>
+		</tr>
+		<tr>
+			<td>17:00PM</td>
+		</tr>
+		<tr>
+			<td>18:00PM</td>
+		</tr>
+		<tr>
+			<td>19:00PM</td>
+		</tr>
+		<tr>
+			<td>20:00PM</td>
+		</tr>
+		<tr>
+			<td>21:00PM</td>
+		</tr>
+		<tr>
+			<td>22:00PM</td>
+		</tr>
+		<tr>
+			<td>23:00PM</td>
+		</tr>
+		<tr>
+			<td>0:00AM</td>
+		</tr>
+	</table>
+
+</body>
+</html>
